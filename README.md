@@ -1,7 +1,7 @@
 # anchore-engine-pipeline
 
 
-[![Build Status](https://travis-ci.com/githubfoam/anchore-engine-pipeline.svg?branch=dev)](https://travis-ci.com/githubfoam/anchore-engine-pipeline)  
+[![Build Status](https://travis-ci.com/githubfoam/anchore-engine-pipeline.svg?branch=main)](https://travis-ci.com/githubfoam/anchore-engine-pipeline)  
 
 ~~~~
 
